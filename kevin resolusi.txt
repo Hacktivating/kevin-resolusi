@@ -2,5 +2,5 @@ Kevin Resolusi
 - Ini contoh pertama
 - Ini contoh kedua lagi
 - Ini contoh yang ketiga
-- Ini contoh keempat
 - Ini contoh kelima
+- Ini contoh keenam : menghapus contoh keempat
