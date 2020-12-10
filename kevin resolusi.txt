@@ -4,3 +4,4 @@ Kevin Resolusi
 - Ini contoh yang ketiga
 - Ini contoh kelima
 - Ini contoh keenam : menghapus contoh keempat
+- Ini contoh ketujuh : menghapus contoh pertama dan kedua lagi
